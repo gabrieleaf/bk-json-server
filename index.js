@@ -1,1 +1,1 @@
-console.log ("Funfoul")
+console.log("Funfoul")
